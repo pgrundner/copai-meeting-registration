@@ -44,7 +44,7 @@ Custom Post Type „Meetup" mit vollständiger Teilnehmerverwaltung.
 
 == Förderhinweis ==
 
-Community of Practice AI KA210 – VET 4603C73C wird von der Europäischen Union finanziert.
+Community of Practice AI 2023-2-AT01-KA210-VET-000169864 wird von der Europäischen Union finanziert.
 
 Von der Europäischen Union finanziert. Die geäußerten Ansichten und Meinungen entsprechen jedoch 
 ausschließlich denen des Autors bzw. der Autoren und spiegeln nicht zwingend die der Europäischen 
