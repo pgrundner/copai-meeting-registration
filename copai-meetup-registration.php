@@ -5,7 +5,7 @@
  * Version:     1.0.0
  * Author:      Peter Grundner
  * License:     MIT
- * Project Community of Practice AI KA210 – VET 4603C73C
+ * Project Community of Practice AI 2023-2-AT01-KA210-VET-000169864
  *
  * Förderhinweis:
  * 
